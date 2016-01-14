@@ -2,3 +2,16 @@ body {
     background-color: #222222;
     color: #ffffff;
 }
+
+#dropdown-colors {
+    background-color: #222222;
+    color: #ffffff;
+}
+
+.dropdown-menu > li > a{
+    color: inherit;
+}
+
+.header-image {
+    background-image: url("https://www.breaksincornwall.com/wp-content/files_mf/cache/th_1bff74efafdca50cff65656f946109fa_gourmet0151.jpg");
+}
