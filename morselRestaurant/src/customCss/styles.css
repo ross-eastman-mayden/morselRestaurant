@@ -1,0 +1,22 @@
+body {
+    background-color: #222222;
+    color: #ffffff;
+}
+
+#dropdown-colors {
+    background-color: #222222;
+    color: #ffffff;
+}
+
+#homepage-image {
+    padding: 0 0 0 0;
+    margin:  0 auto;
+}
+
+.dropdown-menu > li > a{
+color: inherit;
+}
+
+ul .dropdown-menu {
+    border: 1px solid #ffffff;
+}
